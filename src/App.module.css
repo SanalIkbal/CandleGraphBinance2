@@ -1,0 +1,14 @@
+.Nav{
+    
+    width: 100%;
+    position: absolute;
+    z-index: 3;
+    font-size: 4.2rem;
+    margin-top: 20px;
+    top: 0;
+    left: 0;
+    
+    color: white   ;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
